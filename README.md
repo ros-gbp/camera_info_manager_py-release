@@ -1,3 +1,26 @@
+## camera_info_manager_py (kinetic) - 0.2.3-0
+
+The packages in the `camera_info_manager_py` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release camera_info_manager_py -t kinetic -r kinetic -n` on `Fri, 15 Apr 2016 18:48:23 -0000`
+
+The `camera_info_manager_py` package was released.
+
+Version of package(s) in repository `camera_info_manager_py`:
+
+- upstream repository: https://github.com/ros-perception/camera_info_manager_py.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## camera_info_manager_py (jade) - 0.2.3-0
 
 The packages in the `camera_info_manager_py` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade camera_info_manager_py` on `Fri, 01 May 2015 07:48:33 -0000`
