@@ -1,3 +1,26 @@
+## camera_info_manager_py (melodic) - 0.2.3-1
+
+The packages in the `camera_info_manager_py` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic camera_info_manager_py` on `Fri, 15 Nov 2019 19:39:43 -0000`
+
+The `camera_info_manager_py` package was released.
+
+Version of package(s) in repository `camera_info_manager_py`:
+
+- upstream repository: https://github.com/ros-perception/camera_info_manager_py.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## camera_info_manager_py (lunar) - 0.2.3-0
 
 The packages in the `camera_info_manager_py` repository were released into the `lunar` distro by running `/usr/bin/bloom-release camera_info_manager_py -t lunar -r lunar -e` on `Tue, 18 Apr 2017 14:17:39 -0000`
